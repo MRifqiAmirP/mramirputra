@@ -12,10 +12,10 @@ export default function AboutPage() {
   }
 
   const certifications = [
-    "AWS Certified Solutions Architect",
-    "Google Cloud Professional ML Engineer",
-    "Certified IoT Professional",
-    "Python Institute PCAP",
+    "BNSP Database Programming",
+    // "Google Cloud Professional ML Engineer",
+    // "Certified IoT Professional",
+    // "Python Institute PCAP",
   ]
 
   return (
@@ -32,7 +32,7 @@ export default function AboutPage() {
             />
           </h1>
           <p className="text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed">
-            Passionate backend developer with 5+ years of experience building scalable systems, intelligent
+            Passionate backend developer with 1+ years of experience building scalable systems, intelligent
             applications, and innovative IoT solutions.
           </p>
         </div>

@@ -108,7 +108,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <p className="text-slate-400 text-sm">Email</p>
-                    <p className="text-white font-medium">john.doe@email.com</p>
+                    <p className="text-white font-medium">muhammadrifqiamirp20@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">
@@ -117,7 +117,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <p className="text-slate-400 text-sm">Phone</p>
-                    <p className="text-white font-medium">+1 (555) 123-4567</p>
+                    <p className="text-white font-medium">+62 853 6683 0291</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">
@@ -126,7 +126,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <p className="text-slate-400 text-sm">Location</p>
-                    <p className="text-white font-medium">San Francisco, CA</p>
+                    <p className="text-white font-medium">Palembang, South Sumatera, Indonesia</p>
                   </div>
                 </div>
               </CardContent>
